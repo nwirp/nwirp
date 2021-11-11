@@ -4,7 +4,7 @@
 
 The Northwest Immigrant Rights Project **('NWIRP')** knows that utilizing technology is a crucial part of ensuring our mission's success. We invite all to contribute to our work, learn new things, and help us build technology to help keep families together, protect people from violence, and stand up to injustice.
 
-You do not have to be a developer, engineer, lawyer, or wizard (although wizards are highly encouraged to join) to contribute to any of our projects. Our goal is to ensure that contributing to our work is as accessible as possible. A lot of people with many different skills contribute to all our projects: our software, legal services, community education,artwork, this and other documents are the results of a joint effort by our community.
+You do not have to be a developer, engineer, lawyer, or wizard (although wizards are highly encouraged to join) to contribute to any of our projects. Our goal is to ensure that contributing to our work is as accessible as possible. A lot of people with many different skills contribute to all our projects: our software, legal services, community education, artwork, this and other documents are the results of a joint effort by our community.
 
 ## If you'd like to contribute, here are some suggestions with links to learn more.
 
