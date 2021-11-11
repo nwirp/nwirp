@@ -1,8 +1,6 @@
 # About the Northwest Immigrant Rights Project ('NWIRP')
 
-Northwest Immigrant Rights Project promotes justice by defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
-
-Northwest Immigrant Rights Project began in response to an emergency. Hundreds of thousands of Central Americans were fleeing the political repression and violence of civil wars to seek safety and asylum in the United States. But once they arrived, they found they were not welcome.
+NWIRP began in response to an emergency. Hundreds of thousands of Central Americans were fleeing the political repression and violence of civil wars to seek safety and asylum in the United States. But once they arrived, they found they were not welcome.
 
 The government did not want to offer the refugees asylum. They did not want to offer them safety. Instead, these refugees faced immigration authorities bent on sending them right back to war and persecution. Not only did they have no legal right to representation, most didn’t have money to hire a lawyer. They were forced to confront the threat and reality of deportation alone.
 
@@ -13,6 +11,8 @@ A small group gathered together united in their determination to fight for justi
 After the passage of the Immigration Control and Reform Act, there were immigrants and refugees from all over the world who desperately needed legal representation and advocacy if they were to receive the benefits of this new law. This new legislation, coupled with this new group's desire to help people from all countries, officially started the Northwest Immigrant Rights Project.
 
 ## Our Mission
+
+We seek to promote justice by defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
 
 ## Our Values and Principles
 
@@ -60,9 +60,7 @@ We defend the rights of people who have a fear of persecution in their home coun
 
 #### Family Services
 
-NWIRP keeps families together by assisting with family visa applications and representing family members facing deportation.
-
-The FSU processes hundreds of cases each year. Once a month, in Seattle, a Family Visa Workshop is provided for up to 40 people to attend a 40-minute presentation on a general overview of the family-based petition process. If you live in western Washington, contact NWIRP’s main line at (206) 587-4009 to sign up for a Family Visa Workshop and intake. If you live in eastern Washington, please contact the Granger office at (509) 854-2100 or the Wenatchee office at (509) 570-0054, for individual intakes.
+The Family Services Unit processes hundreds of cases each year. Once a month, in Seattle, a Family Visa Workshop is provided for up to 40 people to attend a 40-minute presentation on a general overview of the family-based petition process. If you live in western Washington, contact NWIRP’s main line at (206) 587-4009 to sign up for a Family Visa Workshop and intake. If you live in eastern Washington, please contact the Granger office at (509) 854-2100 or the Wenatchee office at (509) 570-0054, for individual intakes.
 
 #### Children & Youth
 

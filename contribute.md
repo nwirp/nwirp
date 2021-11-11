@@ -1,6 +1,8 @@
+**THIS DOCUMENT IS NOT FINISHED**
+
 # Contribute
 
-The Northwest Immigrant Rights Project ('NWIRP'), knows that utilizing technology is more than just being able to read and write lines of code. It is a vital part of ensuring our mission's success. We have created this repository to invite you to contribute to our work and provide you with the guidelines to contribute to our source code and use it to help keep families together, protect people from violence, and stand up to injustice.
+The Northwest Immigrant Rights Project **('NWIRP')** knows that utilizing technology is a crucial part of ensuring our mission's success. We have created this repository to invite you to contribute to our work and provide you with the guidelines to contribute to our source code and use it to help keep families together, protect people from violence, and stand up to injustice.
 
 You do not have to be a developer, engineer, lawyer, or wizard (although wizards are highly encouraged to join) to contribute to any of our projects. Our goal is to ensure that contributing to our work is as accessible as possible. A lot of people with many different skills contribute to all our projects: our software, IT infrastructure, the artwork, this and other documentation are the results of a joint effort by our community. If you'd like to contribute, here are some suggestions with link to their corresponding guidelines:
 
@@ -33,8 +35,3 @@ Please see our translation guidelines to learn more and fill out our volunteer f
 Our volunteer IT Support Team works to maintain NWIRP's IT infrastructure, systems, and network running. If you are experienced or eager to learn how to troubleshoot basic to advanced IT issues, or have an idea on how we can improve our IT Infrastructure, please see our IT Support guidelines to learn more and fill out our volunteer form.
 
 ## Learn to Code
-
-We believe that building ou
-[Learn more about NWIRP](../README.md)
-[I want to learn to code](learn/learn.md)
-[I want to donate](https://nwirp.org/donate/)
