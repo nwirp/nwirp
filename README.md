@@ -1,6 +1,6 @@
 # Welcome
 
-The Northwest Immigrant Rights Project **('NWIRP')** knows that utilizing technology is a crucial part of ensuring our mission's success. We invite you to contribute to our work, learn new things, and help us build technology to help keep families together, protect people from violence, and stand up to injustice.
+The Northwest Immigrant Rights Project **(NWIRP)** knows that utilizing technology is a crucial part of ensuring our mission's success. We invite all to contribute to our work, learn new things, and help us build technology to help keep families together, protect people from violence, and stand up to injustice.
 
 [About the Northwest Immigrant Rights Project](about.md)
 
