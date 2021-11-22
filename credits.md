@@ -1,0 +1,1 @@
+- Steve Klanic, Carol Nichols, and the Rust Community (The Rust Programming Language Book)
