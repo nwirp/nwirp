@@ -8,4 +8,9 @@ It's not always clear, but coding is fundamentally about empowerment. No matter 
 
 If you don't know how to code or never felt the desire to do it before, there's probably a million reasons you weren't able to do so before. Let's appreciate that you are now able to explore this field! Please do not let any mistake or insecurity prevent you from embarking on this journey. Anybody can code, and in the next section I hope to convince you of your capacity to use your imagination and ingenuity to help NWIRP and your communities build tools that impact your world.
 
- 
+[Let's Begin](begin/begin1.md)
+
+
+## Table of Contents
+
+- [Let's Begin](begin/begin1.md)
